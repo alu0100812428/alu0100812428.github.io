@@ -1,0 +1,47 @@
+body{
+  background: gray;
+  font:arial;
+}
+
+#principal{
+  background-color: lightgray;
+  border: 2px solid black;
+  padding: 30px 10px 10px 30px;
+  border-radius: 10px;
+}
+
+.titulo1{
+  background-color: white;
+  border: 3px solid red;
+  text-align: center;
+  font-size: 2em;
+  border-radius: 10px;
+}
+
+.Asignatura{
+  background-color: white;
+  border: 1px solid black;
+  text-align: left;
+  border-radius: 10px;
+}
+
+.cabecera {
+  background-color: black;
+  border-radius: 10px;
+}
+
+.logo{
+  height: inherit;
+  border-radius: 10px;
+}
+
+.recuadro {
+  background-color: white;
+  border: 2px solid blue;
+
+}
+
+#pie_pagina{
+  background-color: black;
+  
+}
